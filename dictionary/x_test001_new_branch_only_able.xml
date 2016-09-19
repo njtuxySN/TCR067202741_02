@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="new_branch_only_able" max_length="40" name="x_test001_new_branch_only_able" type="collection"/>
+</database>
